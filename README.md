@@ -5,6 +5,9 @@ This project is designed to challenge and deepen your understanding of JavaScrip
 
 The essence of using these higher-order functions is to encourage a declarative approach to programming: you define what you want to achieve (e.g., filter a list, transform data) without having to specify how to perform the operations step-by-step (as you would with imperative loops like for or while). This leads to more readable, concise, and often more maintainable code. Additionally, these functions can help avoid side effects and create pure functions, both key aspects of functional programming.
 
+### Problems encountered
+Had an error when using .trim() function and I had to convert product.prices ton a string to be able to use it
+
 #### Data Sets
 You will work with two primary datasets:
 
